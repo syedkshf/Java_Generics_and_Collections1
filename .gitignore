@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Collections/task1/build/
+/Collections/task2/build/
+/Generics/task1/build/
